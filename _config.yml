@@ -28,7 +28,6 @@ search_enabled: true
 heading_anchors: true
 permalink: pretty
 footer_content:
-search_enabled: false
 
 # Collections for website data
 collections:
