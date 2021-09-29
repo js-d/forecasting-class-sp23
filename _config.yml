@@ -13,10 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Stat 157 / Stat 260
-# tagline: A Jekyll template for course websites
-description: A modern, highly customizable, responsive Jekyll template for course websites
-author: Kevin Lin
+title: Stat 157/260
+tagline: Stat 157/260: Forecasting
+# description: A modern, highly customizable, responsive Jekyll template for course websites
+author: Jean-Stanislas Denain
 # baseurl: '/just-the-class' # the subpath of your site, e.g. /blog
 url: 'http://www.stat157.com/' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
@@ -32,7 +32,7 @@ aux_links:
     - 'https://kevinl.info'
   Just the Class on GitHub:
     - 'https://github.com/kevinlin1/just-the-class'
-footer_content:
+footer_content: test footer content
 
 # Collections for website data
 collections:

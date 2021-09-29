@@ -1,9 +1,9 @@
 ---
-title: Introduction to Java
+title: Week 1 - Introduction to Forecasting
 ---
 
 Sep 28
-: [Java & Git](#)
+: [First class](#)
   : [1.1](#)
 
 Sep 29
