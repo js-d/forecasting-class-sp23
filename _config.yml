@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Stat 157/260
-tagline: Stat 157/260: Forecasting
+tagline: Stat 157/260 - Forecasting
 # description: A modern, highly customizable, responsive Jekyll template for course websites
 author: Jean-Stanislas Denain
 # baseurl: '/just-the-class' # the subpath of your site, e.g. /blog
