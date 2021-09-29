@@ -17,7 +17,7 @@ title: Stat 157/260
 tagline: Stat 157/260 - Forecasting
 description:
 author: Jean-Stanislas Denain
-# baseurl: '/just-the-class' # the subpath of your site, e.g. /blog
+baseurl: '/s22' # the subpath of your site, e.g. /blog
 url: 'http://www.stat157.com/' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
 
