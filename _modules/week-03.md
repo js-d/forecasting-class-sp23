@@ -1,19 +1,15 @@
 ---
-title: Week 3 - Test Test Test
+title: Week 3
 ---
 
-Oct 5
-: [More Forecasting Here](#)
-  : [3.1](#), [2.2](#), [2.3](#)
+Sep 28
+: [Lecture 5: Superforecasting I: Granularity](#)
+  :
 
-Oct 6
-: **Section**{: .label .label-purple }[Section things](#)
-  : [Solution](#)
+Sep 29
+: [Lecture 6: Superforecasting II: Scope Sensitivity and Base Rates](#)
+  :
 
-Oct 8
-: **Lab**{: .label .label-green } [This is the lab](#)
-
-Oct 9
-: [Test Test](#)
-  : [8.1](#), [8.2](#), [8.3](#), [8.4](#)
-: **HW 2 due**{: .label .label-red }
+Sep 30
+: **Discussion 3**{: .label .label-purple }[Revisiting Tournament Forecasts](#)
+  :

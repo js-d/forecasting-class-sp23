@@ -1,23 +1,20 @@
 ---
-title: Week 1 - Introduction to Forecasting
+title: Week 1
 ---
 
+Lecture 1: History of Forecasting
+Lecture 2: Calibration and Calibration Training
+Discussion 1: Calibration
+
+
 Sep 28
-: [First class](#)
-  : [1.1](#)
+: [Lecture 1: History of Forecasting](#)
+  :
 
 Sep 29
-: **Section**{: .label .label-purple }[Intro to Java](#)
-  : [Solution](#)
+: [Lecture 2: Calibration and Calibration Training](#)
+  :
 
 Sep 30
-: [Variables & Objects](#)
-  : [1.2](#), [2.1](#)
-
-Oct 1
-: **Lab**{: .label .label-purple } [Intro to Java](#)
-
-Oct 2
-: [Tracing, IntLists, & Recursion](#)
-  : [2.1](#)
-: **HW 1 due**{: .label .label-red }
+: **Discussion 1**{: .label .label-purple }[Calibration](#)
+  :
