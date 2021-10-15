@@ -5,5 +5,3 @@ email: jsteinhardt@berkeley.edu
 website: https://jsteinhardt.stat.berkeley.edu/
 photo: jacob.jpg
 ---
-
-[Schedule an appointment](#){: .btn .btn-outline }
