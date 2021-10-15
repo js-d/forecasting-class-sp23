@@ -4,8 +4,8 @@ title: Week 1
 
 Jan 17
 : [Lecture 1: History of Forecasting](#)
-
-: **Reading**{: .label .label-purple }[First reading](#), [Second reading](#)
+    : [Slides](#), [Video](#)
+: **Reading**{: .label .label-green }[First reading](#), [Second reading](#)
 
 Jan 19
 : [Lecture 2: Calibration and Calibration Training](#)
