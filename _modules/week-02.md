@@ -2,14 +2,13 @@
 title: Week 2
 ---
 
-Sep 28
+Jan 24
 : [Lecture 3: Fermi Estimates and Orders of Magnitude](#)
-  :
 
-Sep 29
+Jan 26
 : [Lecture 4: Prediction Tournaments and Proper Scoring Rules](#)
-  :
 
-Sep 30
-: **Discussion 2**{: .label .label-purple }[Forecasts for the Prediction Tournament](#)
-  :
+: **Hw1 due**{: .label .label-red }
+
+Jan 28
+: [Discussion 2: Forecasts for the Prediction Tournament](#)
