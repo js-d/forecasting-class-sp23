@@ -11,7 +11,7 @@ Jan 19
 : Lecture 2: Calibration and Calibration Training
     :   
 
-: **Hw**{: .label .label-red }[HW1 released](#)
+: **Hw**{: .label .label-red }[HW1](#) released
 
 Jan 21
 : Discussion 1: Calibration
