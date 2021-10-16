@@ -10,8 +10,6 @@ Jan 26
 : Lecture 4: Prediction Tournaments and Proper Scoring Rules
     :   
 
-: **Hw1 due**{: .label .label-red }
-
 Jan 28
 : Discussion 2: Forecasts for the Prediction Tournament
     :   
