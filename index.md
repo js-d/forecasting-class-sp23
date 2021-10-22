@@ -48,6 +48,11 @@ Grades will be based on a combination of:
 
 To reach course staff, you can email [forecasting-class-staff@lists.berkeley.edu](mailto:forecasting-class-staff@lists.berkeley.edu). If possible, please avoid emailing professors or GSIs directly!
 
+{% assign lead = site.staffers | where: 'role', 'Lead Instructor' %}
+{% for staffer in lead %}
+{{ staffer }}
+{% endfor %}
+
 {% assign instructors = site.staffers | where: 'role', 'Instructor' %}
 {% for staffer in instructors %}
 {{ staffer }}

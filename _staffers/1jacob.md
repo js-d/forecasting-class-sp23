@@ -1,6 +1,6 @@
 ---
 name: Jacob Steinhardt
-role: Instructor
+role: Lead Instructor
 email: jsteinhardt@berkeley.edu
 website: https://jsteinhardt.stat.berkeley.edu/
 photo: jacob.jpg
