@@ -3,13 +3,13 @@ title: Week 12
 ---
 
 Apr 4
-: Lecture 23: Long-tailed Events
+: Lecture 21: Regimes
     :    
 
 Apr 6
-: Lecture 24: Risk Management: Geomagnetic Storms
+: Lecture 22: Prediction Markets in the Real World
     :   
 
 Apr 8
-: Discussion 12
+: Discussion 11
     :   

@@ -3,13 +3,13 @@ title: Week 10
 ---
 
 Mar 21
-: Lecture 19: History of Forecasting: Finance
+: Spring Recess
     :   
 
 Mar 23
-: Lecture 20: Advanced Prediction Markets
+: Spring Recess
     :   
 
 Mar 25
-: Discussion 10
+: Spring Recess
     :   

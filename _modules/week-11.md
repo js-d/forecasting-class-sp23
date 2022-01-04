@@ -3,13 +3,13 @@ title: Week 11
 ---
 
 Mar 28
-: Lecture 21: Bayesian truth serum
+: Lecture 19: Case Study: Financial Crisis
     :   
 
 Mar 30
-: Lecture 22: Prediction Teams: The Delphi Method
+: Lecture 20: Case Study: AI Forecasting
     :   
 
 Apr 1
-: Discussion 11
+: Discussion 10
     :    
