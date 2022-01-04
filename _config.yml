@@ -34,6 +34,7 @@ collections:
   staffers:
   modules:
   schedules:
+  lectures:
   announcements:
 # Default layouts for each collection type
 defaults:
@@ -58,6 +59,11 @@ defaults:
       type: announcements
     values:
       layout: announcement
+  - scope:
+      path: ''
+      type: lec
+    values:
+      layout: lec
 
 compress_html:
   clippings: all
