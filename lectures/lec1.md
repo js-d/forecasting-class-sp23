@@ -4,7 +4,7 @@ title: Lecture 1 - Base Rates and Reference Classes
 nav_exclude: true
 ---
 
-# Base Rates and Reference Classes
+# Lecture 1: Base Rates and Reference Classes
 
 Let's start by considering the following question:
 
