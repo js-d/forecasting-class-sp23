@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Lecture 1 - Base Rates and Reference Classes
+title: Lecture 7 - Base Rates and Reference Classes
 nav_exclude: true
 ---
 
