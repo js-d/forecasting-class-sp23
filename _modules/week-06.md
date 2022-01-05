@@ -8,7 +8,7 @@ Feb 21
 
 Feb 23
 : Lecture 12: Turning Considerations Into Probabilities
-    : [Notes](/lectures/lec12-consideration-probabilities) 
+    : [Notes](/lectures/lec12-considerations-probabilities) 
 
 Feb 25
 : Discussion 6
