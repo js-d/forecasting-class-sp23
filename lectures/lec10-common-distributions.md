@@ -4,9 +4,14 @@ title: Lecture 10 - Common Probability Distributions
 nav_exclude: true
 ---
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.10.1/dist/katex.css" crossorigin="anonymous">
-<script defer src="https://cdn.jsdelivr.net/npm/katex@0.10.1/dist/katex.js" crossorigin="anonymous"></script>
-<script defer src="https://cdn.jsdelivr.net/npm/katex@0.10.1/dist/contrib/auto-render.min.js" crossorigin="anonymous" onload="renderMathInElement(document.body);"></script>
+<script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.3/MathJax.js?config=TeX-MML-AM_CHTML">
+MathJax.Hub.Config({
+    tex2jax: {
+        inlineMath: [["$", "$"], ["\\(", "\\)"]],
+        processEscapes: true
+    }
+});
+</script>
 
 # Lecture 10: Common Probability Distributions
 
@@ -21,11 +26,6 @@ From your math and probability classes, you're probability used to the Gaussian 
 In the remainder of these notes, I'll discuss each of these in turn. The following table summarizes these distributions, what typically causes them to occur, and several examples of data that follow the distribution:
 <br>
 
-<!-- | Distribution | Gaussian | Log-normal | Power Law |
-| -------------- | -------- | ---------- | --------- |
-| &emsp;Causes | Independent *additive* factors | Independent *multiplicative* factors | Rich get richer, scale invariance |
-| &emsp;Tails | Thin tails | Heavy tails | Heavier tails |
-| &emsp;Examples&emsp; | - heights <br> - temperature <br> - measurement errors | - US GDP in 2030 <br> - Price of Tesla stock in 2030 | - city population <br> - twitter followers <br> - word frequencies | -->
 | Distribution | Gaussian | Log-normal | Power Law |
 | -------------- | -------- | ---------- | --------- |
 | Causes | Independent *additive* factors | Independent *multiplicative* factors | Rich get richer, scale invariance |
