@@ -4,7 +4,7 @@ title: Week 5
 
 Feb 14
 : Lecture 9: Combinating Forecasts
-    :  
+    : [Notes](/lectures/lec9-combining-forecasts) 
 
 Feb 16
 : Lecture 10: Common Probability Distributions
