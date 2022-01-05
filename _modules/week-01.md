@@ -3,7 +3,7 @@ title: Week 1
 ---
 
 Jan 17
-: Lecture 1: History of Forecasting
+: Lecture 1: Class Overview
     :   
 
 Jan 19
