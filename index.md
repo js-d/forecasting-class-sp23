@@ -26,6 +26,7 @@ Forecasting has been used to predict elections, climate change, and the spread o
 ## Lecture
 
 MWF11-12, in 3108 Etcheverry Hall
+ * <a href="https://berkeley.zoom.us/j/93592932586?pwd=Y1hBNEp4OGVqWHMvOXZKcmd1L0d6QT09">Zoom link</a> for first 2 weeks of class
 
 This class will be heavily disussion-based and attendance will count towards the grade. Monday and Wednesday lectures 
 will be a combination of traditional lecture and group activities, while Friday will be student-led small 
