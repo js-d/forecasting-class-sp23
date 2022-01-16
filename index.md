@@ -22,7 +22,7 @@ Forecasting has been used to predict elections, climate change, and the spread o
 
 **Prerequisites**: Stat134 or a similar probability course (i.e. EECS126, STAT140, IEOR172).
 
-[Course Syllabus](./assets/syllabus.pdf)
+[Course Syllabus](./assets/syllabus.pdf) | [Piazza Forum](https://piazza.com/berkeley/spring2022/stat157260)
 
 ## Lecture
 
