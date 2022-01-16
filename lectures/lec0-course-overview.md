@@ -24,7 +24,7 @@ When you first hear the word "forecasting", you might first think of fancy stati
 
 | ------- | -------- |
 | Forecasting | Statistical Modeling |
-| Estimatoin | Calculation |
+| Estimation | Calculation |
 | $n \leq 10$ | $n \geq 30$ |
 
 Thus, forecasts have to rely on intuition, while informing that intuition with data, and training your intuition to become more accurate over time.
