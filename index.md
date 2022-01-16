@@ -29,19 +29,18 @@ MWF11-12, in 3108 Etcheverry Hall
  * <a href="https://berkeley.zoom.us/j/93592932586?pwd=Y1hBNEp4OGVqWHMvOXZKcmd1L0d6QT09">Zoom link</a> for first 2 weeks of class
 
 This class will be heavily disussion-based and attendance will count towards the grade. Monday and Wednesday lectures 
-will be a combination of traditional lecture and group activities, while Friday will be student-led small 
+will be a combination of traditional lecture and group activities, while most Fridays will be student-led small 
 group discussions with instructors helping to facilitate.
 
 Instead of exams, there will be a final project. Students in Stat260 will be expected to do a more substantial project.
 
-There will be no official lab / discussion block, but some homework will involve programming and we will have GSIs available 
-during the lab slot to help students debug.
+There will be no official lab / discussion block, but some homework will involve programming. 
 
 ## Grading
 
 Grades will be based on a combination of:
  * Lecture attendance (15%)
- * Weekly forecasting exercises (20%)
+ * Forecasting Performance (20%)
  * Homework (35%)
  * Final project (30%)
 
