@@ -31,7 +31,7 @@ Thus, forecasts have to rely on intuition, while informing that intuition with d
 
 Forecasts in this class will usually rely on three steps: forming a worldview, generating considerations, and combining these considerations into a calibrated probability distribution. 
 
-<img src="./lec0-diagram-simple.png">
+<img src="../lec0-diagram-simple.png">
 
 I'll illustrate these with the example of forecasting how many confirmed Covid cases will be reported on Jan. 24th, 2022.
 
@@ -51,7 +51,7 @@ We also mentioned the importance of building an accurate worldview. For this, yo
 
 Based on these and other skills, we could expand the diagram above into something like the following (which is also a pretty good map of the topics in this class):
 
-<img src="./lec0-diagram-full.png">
+<img src="../lec0-diagram-full.png">
 
 
 In summary, while forecasting uses statistics, it is much more far-reaching. You'll learn many skills that transfer beyond forecasting, such as how to evaluate information sources. And you'll find that forecasting can be used to improve decisions in your daily life.
