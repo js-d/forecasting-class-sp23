@@ -7,3 +7,11 @@ Gemfile.lock
 _site/
 node_modules/
 vendor/
+
+#latex
+*.aux
+*.log
+*.out
+*.fls
+*.fdb_latexmk
+*.synctex.gz
