@@ -11,5 +11,5 @@ Feb 2
     :  
 
 Feb 4
-: Discussion 3: Revisiting Tournament Forecasts
+: Discussion 3
     :   

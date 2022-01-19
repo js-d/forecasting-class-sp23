@@ -11,5 +11,5 @@ Jan 26
     :   
 
 Jan 28
-: Discussion 2: Forecasts for the Prediction Tournament
+: Discussion 2
     :   
