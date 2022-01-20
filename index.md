@@ -43,7 +43,7 @@ Our office hour schedule this semester will be:
  * Jacob Steinhardt (Lead Instructor): Evans 325, 11am-12pm on Tuesdays
  * Jean-Stanislas Denain (GSI): Evans 428, 2-3pm on Mondays
  * Frances Ding (GSI): Evans 428, 10-11am on Fridays
- * Collin Burns (GSI): Room TBD, 10-11am on Wednesdays
+ * Collin Burns (GSI): Evans 428, 10-11am on Wednesdays
 
 We will be holding some of these office hours on zoom for at least the first two week of classes. We will announce these and any other changes to the office hour schedule on piazza.
 
