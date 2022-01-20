@@ -8,4 +8,4 @@ Jan 19
 
 Jan 21
 : Discussion 1: Calibration
-    :  
+    : [Discussion Worksheet](https://docs.google.com/document/d/1vVBL2TeuCYC33pjvxmVKC-CDpqcDXmKNdaNzQGCWaX8/edit?usp=sharing)
