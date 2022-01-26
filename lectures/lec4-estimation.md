@@ -51,7 +51,7 @@ Okay, so that's not actually the point of this class, which is to teach you how 
 <img src="https://bounded-regret.ghost.io/content/images/2022/01/Germany_Iceland_Locator.png" width="30%">
 </p>
 <br><i>Map highlighting Iceland and Germany</i>
-</p>
+
 
 We can already learn quite a few things from this example:
 
@@ -72,7 +72,7 @@ In this light, all of our estimations were within two orders of magnitude, despi
 <img src="https://bounded-regret.ghost.io/content/images/2022/01/Enrico-Fermi-chalkboard_0.jpeg" width="50%">
 </p>
 <br><i>Enrico Fermi at a chalkboard</i>
-</p>
+
 
 The more you know, the better you will be at getting tighter and tighter relative error bounds. What’s “good”, however, is very context dependent:
 - In the Fermi example, a relative error of 2 is quite good, and I am guessing being off by an order of magnitude would have been bad for engineering purposes but fine for an estimation. Context matters!
@@ -125,7 +125,7 @@ This was my approach. Again, this isn't meant to be the "right" approach - I wou
 <img src="https://bounded-regret.ghost.io/content/images/2022/01/mcd_berkeley.png" width="70%">
 </p>
 <br><i>Google maps highlighting McDonalds around Berkeley</i>
-</p>
+
     
 And now I learned something about McDonalds, Berkeley, and California!
 
