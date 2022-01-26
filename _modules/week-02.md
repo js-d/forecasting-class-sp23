@@ -8,7 +8,7 @@ Jan 24
 
 Jan 26
 : Lecture 4: Estimation
-    :   
+    : [Notes](/lectures/lec4-estimation)   
 
 Jan 28
 : Discussion 2
