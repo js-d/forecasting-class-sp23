@@ -46,13 +46,13 @@ I think if you asked most people, they would have disagreed with assumption 3. B
 
 A better strategy would have been to apply a **first-order approximation**, to the number of Covid cases, i.e. to trace a line through the recent data points and to use this line to predict future data points. You could then have used this approximation instead of assumptions 1. and 2. to predict the overall state of the world and the number of available ICU beds.
 
-In February 2020, here's what the data would have looked like:
+For example, here's what the data would have looked like in the United Kingdom at the end of February 2020:
 
-<iframe src="https://ourworldindata.org/grapher/covid-tests-cases-deaths-per-million?time=earliest..2020-02-20&country=~World+excl.+China" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+<iframe src="https://ourworldindata.org/explorers/coronavirus-data-explorer?zoomToSelection=true&time=earliest..2020-03-02&facet=none&pickerSort=desc&pickerMetric=new_cases_smoothed_per_million&Metric=Confirmed+cases&Interval=7-day+rolling+average&Relative+to+Population=true&Color+by+test+positivity=false&country=~GBR&hideControls=true" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
-Here you can see the number of confirmed Covid cases per million in all countries other than China, between late January 2020 and late February 2020. Feel free to play around with the dates to see how well and for how long tracing a line through the data would have worked!
+Here you can see the number of confirmed Covid cases per million in the UK, between early February 2020 and late February 2020. Feel free to play around with the dates to see how well and for how long tracing a line through the data would have worked!
 
-You can also switch between a linear and a logarithmic scale, i.e. between plotting the number of confirmed cases per million, and its logarithm. A first-order approximation to the logarithm of a quantity predicts that that quantity **grows exponentially**. In the case of confirmed cases, this approximation is quite inaccurate between late January 2020 and the middle of February 2020, but does quite well between the middle of February 2020 and the end of March 2020. 
+You can also switch between a linear and a logarithmic scale, i.e. between plotting the number of confirmed cases per million, and its logarithm. A first-order approximation to the logarithm of a quantity predicts that that quantity **grows exponentially**. In the case of confirmed cases, this approximation is quite inaccurate between late January 2020 and late February 2020, but does quite well between the end of February 2020 and the middle of March 2020.  
 
 Note that the choice of what to first-order approximate matters a lot here. If you had applied a first-order approximation to 1. or 2., you wouldn't have thought much would change.
 
