@@ -3,7 +3,7 @@ title: Week 5
 ---
 
 Feb 14
-: Lecture 9: Combinating Forecasts
+: Lecture 9: Combining Forecasts
     : [Notes](/lectures/lec9-combining-forecasts) 
 
 Feb 16
