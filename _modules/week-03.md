@@ -7,8 +7,8 @@ Jan 31
     : [Notes](/lectures/lec5-zeroth-first) / [HW3](/assets/hw3.pdf) (due 02/07)
 
 Feb 2
-: Lecture 6: Inner Game of Forecasting
-    :  
+: Lecture 6: Base Rates and Reference Classes
+    : [Notes](/lectures/lec6-base-rates)
 
 Feb 4
 : Discussion 3
