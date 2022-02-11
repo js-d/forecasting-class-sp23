@@ -12,4 +12,4 @@ Feb 9
 
 Feb 11
 : Discussion 4
-    :   
+    :  [Discussion Worksheet](https://docs.google.com/document/d/18ew6rD7ahQVU4_fNRt9NfQwgsH-HKoSin5ieDi48Y_U/edit?usp=sharing)
