@@ -8,7 +8,7 @@ Feb 14
 
 Feb 16
 : Lecture 10: Common Probability Distributions
-    : [Notes](/lectures/lec10-common-distributions) 
+    : [Notes](/lectures/lec10-common-distributions) / [Slides](https://docs.google.com/presentation/d/1qT3mNAyvQ4yKKAceImB5HGfmB9cLWkoEEAyy4038jcE/edit?usp=sharing)
 
 Feb 18
 : Discussion 5
