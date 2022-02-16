@@ -134,5 +134,5 @@ _**Jacob:** Would you still consider [this lecture] good pedagogy for students?_
 
 _**Misha:** I think it is a textbook example, looks good to me. I think it’s put a bit too much weight on legible steps and a bit less on "actual creative work." To be clear, these legible technical steps are important and worth having in front of you._
 
-_My takeaway is that the approach above is useful and valuable, but that it is also important to build a good world-model (especially when confronting a new domain). We'll hopefully have more to say about that in upcoming lectures._
+My takeaway is that the approach above is useful and valuable, but that it is also important to build a good world-model (especially when confronting a new domain). We'll hopefully have more to say about that in upcoming lectures.
 
