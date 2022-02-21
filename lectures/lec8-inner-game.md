@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Lecture 8 - The "Other" Option
+title: Lecture 8 - The Inner Game of Forecasting
 nav_exclude: true
 ---
 
@@ -13,7 +13,7 @@ MathJax.Hub.Config({
 });
 </script>
 
-# Lecture 9: The Inner Game of Forecasting
+# Lecture 8: The Inner Game of Forecasting
 
 Forecasting is much more like a sport than a collection of knowledge. One benefit of sports and similar skills, like games, is that they provide ways to get feedback quickly and improve. In this class, we will focus on one main game, "predict X by time Y", and we will play this game many times. Therefore, there is potential for significant improvement on that skill over a semester. In contrast, most math classes have to cover a certain amount of material, so you only get a few hours of practice on a given topic. Thus, our ambitious (really!) goal is to teach forecasting in such a way that you get better at the game of forecasting instead of just providing knowledge and references **about** forecasting.
 

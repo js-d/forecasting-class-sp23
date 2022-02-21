@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Lecture 7 - Base Rates and Reference Classes
+title: Lecture 6 - Base Rates and Reference Classes
 nav_exclude: true
 ---
 
@@ -8,7 +8,7 @@ nav_exclude: true
 <script defer src="https://cdn.jsdelivr.net/npm/katex@0.10.1/dist/katex.js" crossorigin="anonymous"></script>
 <script defer src="https://cdn.jsdelivr.net/npm/katex@0.10.1/dist/contrib/auto-render.min.js" crossorigin="anonymous" onload="renderMathInElement(document.body);"></script>
 
-# Lecture 7: Base Rates and Reference Classes
+# Lecture 6: Base Rates and Reference Classes
 
 Let's start by considering the following question:
 

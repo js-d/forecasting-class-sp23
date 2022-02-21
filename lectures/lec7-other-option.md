@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Lecture 8 - The "Other" Option
+title: Lecture 7 - The "Other" Option
 nav_exclude: true
 ---
 
@@ -13,7 +13,7 @@ MathJax.Hub.Config({
 });
 </script>
 
-# Lecture 8: The "Other" Option
+# Lecture 7: The "Other" Option
 
 For open-ended questions, it's easy to underestimate the number of plausible outcomes. For instance, while practicing for the forecasting class, the course staff were asked to predict the following question:
 
