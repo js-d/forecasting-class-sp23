@@ -8,7 +8,7 @@ Feb 7
 
 Feb 9
 : Lecture 8: Inner Game of Forecasting
-    :  [Slides](https://docs.google.com/presentation/d/14tjQOePzTQOrKm3dMU9yr9kTRXJd8ohOR6CHCXCuZRY/edit)
+    : [Notes](/lectures/lec8-inner-game) / [Slides](https://docs.google.com/presentation/d/14tjQOePzTQOrKm3dMU9yr9kTRXJd8ohOR6CHCXCuZRY/edit)
 
 Feb 11
 : Discussion 4
