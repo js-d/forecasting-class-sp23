@@ -4,7 +4,7 @@ title: Week 6
 
 Feb 21
 : Lecture 11: Prioritizing Information
-    : [Notes](/lectures/lec11-prioritizing-information) / [Slides](https://docs.google.com/presentation/d/1P_bz1yjjKqzefJE553uynLmqEd747Q4BfN1DHUJ59uY/edit?usp=sharing)
+    : [Notes](/lectures/lec11-prioritizing-information) / [Slides](https://docs.google.com/presentation/d/1P_bz1yjjKqzefJE553uynLmqEd747Q4BfN1DHUJ59uY/edit?usp=sharing) / [HW6](/assets/hw6.pdf) (due 02/28)
 
 Feb 23
 : Lecture 12: Turning Considerations Into Probabilities
