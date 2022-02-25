@@ -12,4 +12,4 @@ Feb 23
 
 Feb 25
 : Discussion 6
-    : [Discussion worksheet](https://docs.google.com/document/d/1INf-KSQUIgWckdyRkBTIOi8C2BTilBKYBtbilgTJWbQ/edit?usp=sharing)
+    : [Discussion Worksheet](https://docs.google.com/document/d/1INf-KSQUIgWckdyRkBTIOi8C2BTilBKYBtbilgTJWbQ/edit?usp=sharing)
