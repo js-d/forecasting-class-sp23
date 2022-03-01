@@ -2,12 +2,12 @@
 title: Week 11
 ---
 
-Mar 28
-: Lecture 19: Case Study: Financial Crisis
+Mar 28 
+: Lecture 18: Worldview Building
     :   
 
 Mar 30
-: Lecture 20: Case Study: AI Forecasting
+: Lecture 19: Case Study: Election Forecasting
     :   
 
 Apr 1

@@ -3,11 +3,11 @@ title: Week 9
 ---
 
 Mar 14
-: Lecture 17: Worldview Building
-    :   
+: Lecture 16: Cognitive Biases I
+    :    
 
 Mar 16
-: Lecture 18: Case Study: Election Forecasting
+: Lecture 17: Cognitive Biases II
     :   
 
 Mar 18

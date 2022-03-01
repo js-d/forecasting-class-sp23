@@ -3,11 +3,11 @@ title: Week 12
 ---
 
 Apr 4
-: Lecture 21: Regimes
-    :    
+: Lecture 20: Case Study: Financial Crisis
+    :   
 
 Apr 6
-: Lecture 22: Prediction Markets in the Real World
+: Lecture 21: Case Study: AI Forecasting
     :   
 
 Apr 8

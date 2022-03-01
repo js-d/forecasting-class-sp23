@@ -3,9 +3,9 @@ title: Week 14
 ---
 
 Apr 18
-: Project Presentations
+: Lecture 24: Forecasting and Decision Making
     :   
 
 Apr 20
-: Project Presentations
-    :  
+: Lecture 25: Project Presentations
+    :   
