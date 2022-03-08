@@ -8,7 +8,7 @@ Feb 28
 
 Mar 2
 : Lecture 13: Bayesian Aggregation of Evidence
-    :   
+    : [Slides](https://docs.google.com/presentation/d/1ODz3rv-ZpewdHdwuwBu7eU4wCI5G9HxS_tcB5Fbc2NU/edit#slide=id.p)
 
 Mar 4
 : Discussion 7
