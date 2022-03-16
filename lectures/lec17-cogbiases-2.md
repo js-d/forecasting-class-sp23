@@ -14,7 +14,7 @@ MathJax.Hub.Config({
 </script>
 
 # Lecture 17: Statistical Street Fighting - Tricks that Work
-<i>Yan Zhang and Collin Burns</i><br>
+<i>Yan Zhang</i><br>
 <br>
 
 

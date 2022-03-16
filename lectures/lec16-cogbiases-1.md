@@ -14,7 +14,7 @@ MathJax.Hub.Config({
 </script>
 
 # Lecture 16: Statistical Street Fighting - Information Hygiene
-<i>Yan Zhang and Collin Burns</i><br>
+<i>Yan Zhang</i><br>
 <br>
 
 There are many ideas that are less “statistical”, not backed up by studies through academic journals, etc. but that we still feel are probably valuable for  **doing**  forecasting. I call these ideas “street fighting” skills to differentiate from “established” knowledge. They are a microcosm of the messiness of the forecasting skill itself. For the next couple of lectures, we will focus on these types of skills.
