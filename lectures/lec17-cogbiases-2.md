@@ -13,7 +13,7 @@ MathJax.Hub.Config({
 });
 </script>
 
-# Statistical Street Fighting: Tricks that Work
+# Lecture 17: Statistical Street Fighting - Tricks that Work
 <i>Yan Zhang and Collin Burns</i><br>
 <br>
 
@@ -31,7 +31,7 @@ From my own experience, and after conversations with more experienced forecaster
 
 In the last lecture, I already went into the 1st question, which strikes at the heart of bad habits that keep us from getting new information that challenge us. In this lecture, I will go into the remaining questions with a bit more detail.
 
-### 2. “Did I read the question / resolution criterion carefully?”
+## “Did I read the question / resolution criterion carefully?”
 
 This innocent-sounding question is very important for performing well on actual forecasts. For example, it is very easy to see a question like “Will [team A] beat [team B] in [sport event X]?” and make the following errors:
 
@@ -50,7 +50,7 @@ This skill is quite easy to practice; you can, for example, just make sure you a
 
 If you put 5 honest minutes in this, you should notice that you got almost “for free” a clearer description of the situation than what you started with. What else did you discover from doing this activity?
 
-## 3. “Would I bet [a nontrivial amount of money] on this?”
+## “Would I bet [a nontrivial amount of money] on this?”
 
 This is something that seasoned forecasters do so much automatically that they might not even think of it as a trick, but is something very unintuitive for most people who do not have a background in games of probability where real stakes can be lost. I think it is an effective question to ask yourself during predictions for two reasons:
 
@@ -67,7 +67,7 @@ As for why this thing can work (just for transparency: for me, it doesn’t alwa
 
 While it is certainly not my intention to publicly tell you to gamble, it would be intellectually dishonest for me to leave out that if you actually gambled on something you would probably improve at forecasting even faster. As anyone who has played real money poker versus play money poker would tell you, the improvements from playing real money poker far exceeds what you would get from playing play money poker, and it is very hard to jump to high-stakes gambling without low-stakes gambling. We cannot and will not go this far in a classroom structure; instead, we do the best we can to give you some  [Skin in the Game](https://www.amazon.com/Skin-Game-Hidden-Asymmetries-Daily/dp/042528462X)  by “betting” some of your grade on predictive questions – it is the safest way we see for you to realistically practice this skill.
 
-## 4. “What would [person X] do?”
+## “What would [person X] do?”
 
 This trick is almost cliche, but it seems to be a very useful way of just getting us to take the perspective of another person with fairly high accuracy. While this is ideal if the other person is a skilled forecaster, as we have repeatedly said in this course, for a skill such as forecasting introducing diverse perspectives by itself is likely to improve your performance.
 
@@ -80,13 +80,13 @@ I will give a raw “real-time” example of me making a prediction:
 
 Overall, I still think my forecasting so far is fairly naive, especially on such an important subject where I am lacking domain knowledge. However, relative to where I started before this exercise, I did polish my model a lot due to using this trick, and I am much more confident that I am starting to understand the situation a bit better. (to keep it simple, I do not include here my updates after 2/14/2022, when I first wrote this draft, even though we all got more information since then)
 
-## 5. “Do I have a good reason to believe that I am more accurate than the crowd?”
+## “Do I have a good reason to believe that I am more accurate than the crowd?”
 
 Some people (myself included at times) tend to be contrarian in situations where we think the other people are wrong, probably at least partially because we like being “different but right.” However, this means we would be biased away from the truth in the contrarian direction, and this question is useful as a humbling anti-bias tool. Basically, it is saying that if the crowd is different from us, that is some Bayesian evidence that our priors are more likely to be wrong, so we probably want at least  _one_  very good reason (maybe a primary source that seems under-analyzed, or a perspective from a non-public expert) to conclude something drastically different.
 
 For sake of time we will not practice this, but next time you make a bet that seems “out there” and everyone else seems to be thinking the same way, try to make sure you have at least one good explanation of why you might be more right than everyone else! (“I am smarter than everyone else in the room” is probably a terrible reason)
 
-## 6. “What would an ‘expert analyst’ think about my forecast?”
+## “What would an ‘expert analyst’ think about my forecast?”
 
 This is similar to “what would X do?” and serves similar purposes, so I won’t go into too much detail. I think the main thing this one does is to put you in “outside view” which de-biases our own egos, and helps to find mistakes in our thinking, whereas “what would X do” seems to be better at finding new ideas instead of finding mistakes in our own ideas.
 

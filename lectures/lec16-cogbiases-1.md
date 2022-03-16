@@ -13,7 +13,7 @@ MathJax.Hub.Config({
 });
 </script>
 
-# Statistical Street Fighting: Information Hygiene
+# Lecture 16: Statistical Street Fighting - Information Hygiene
 <i>Yan Zhang and Collin Burns</i><br>
 <br>
 
