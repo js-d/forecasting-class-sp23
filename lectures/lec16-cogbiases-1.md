@@ -22,7 +22,8 @@ There are many ideas that are less “statistical”, not backed up by studies t
 A long long time ago, people fought each other with sticks and stones. These days, people fight each other with numbers, which, while being less physically harmful, does hurt our understanding of the world in a way sticks and stones do not.
 
 ![](https://bounded-regret.ghost.io/content/images/2022/03/laws_of_physics.png)
-*Sometimes we fight each other with both stones **and** numbers.*
+
+*(Sometimes we fight each other with both stones **and** numbers.)*
 
 Therefore, how we **deal with the** _**quality**_ **of the limited information we obtain**, which some people call “information hygiene,” has become a very useful skill. There are two big reasons this skill is especially important for forecasting:
 
@@ -99,11 +100,11 @@ It’s very educational to apply this concept to scientific studies / claims you
 
 Let’s start with an estimation practice.
 
-**1.  ****What’s the average number of books an American reads per year?******
+**1.  What’s the average number of books an American reads per year?**
 
 Now, let me ask another question. The twist is…  **you are allowed to change your answer for #1 based on your thinking here**. (if you do, write down the change).
 
-**2.  ****What’s the average number of books you read per year?******
+**2.  What’s the average number of books you read per year?**
 
 For now, notice how you felt answering these questions. We’ll return to this exercise and how you felt a bit later.
 
