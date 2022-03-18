@@ -12,5 +12,5 @@ Mar 16
 
 Mar 18
 : Discussion 9
-    :   
+    :  [Discussion worksheet](https://docs.google.com/document/d/1ziuiIXWHnxZJawvU5KNaVkfIx5J6Hzaez6uzNx-D0W8/edit?usp=sharing)
     
