@@ -3,7 +3,7 @@ title: Week 13
 ---
 
 Apr 11
-: Lecture 22: Regimes
+: Lecture 22: Guest Lecture
     :    
 
 Apr 13
