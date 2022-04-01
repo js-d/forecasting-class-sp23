@@ -12,4 +12,4 @@ Mar 30
 
 Apr 1
 : Discussion 10
-    :    
+    :  [Discussion Worksheet](https://docs.google.com/document/d/1NKdvtHZ5wGftes9pqoJFEm9xc4fztQT0-EkQm23hu6c/edit?usp=sharing)   
