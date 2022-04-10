@@ -12,4 +12,4 @@ Apr 6
 
 Apr 8
 : Discussion 11
-    :   
+    :  [Discussion Worksheet](/assets/STAT_157_260__Discussion_11.pdf)
