@@ -9,3 +9,6 @@ Apr 25
 Apr 27
 : Lecture 25: Project Presentations
     :   
+
+Apr 29
+: Discussion 14: Project Presentations
