@@ -12,4 +12,4 @@ Apr 13
 
 April 15
 : Discussion 12
-    :
+    : [Discussion Worksheet](https://docs.google.com/document/d/1cRpMTEu40BoBA58W-m7FPufwcbaAOzx3sJuGr9yWQdA/edit?usp=sharing)
