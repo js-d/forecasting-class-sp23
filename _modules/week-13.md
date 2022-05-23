@@ -8,7 +8,7 @@ Apr 11
 
 Apr 13
 : Lecture 23: Guest Lecture: Information Sources (Carolyn Meinel)
-    :   
+    : [Slides](https://drive.google.com/file/d/1NBqIe9dpCBXuyOftCkkAo15MGj-Xf-qu/view?usp=sharing)
 
 April 15
 : Discussion 12
