@@ -22,12 +22,11 @@ Forecasting has been used to predict elections, climate change, and the spread o
 
 **Prerequisites**: Stat134 or a similar probability course (i.e. EECS126, STAT140, IEOR172).
 
-[Course Syllabus](./assets/syllabus.pdf) | [Piazza Forum](https://piazza.com/berkeley/spring2022/stat157260)
+<!-- [Course Syllabus](./assets/syllabus.pdf) | [Piazza Forum](https://piazza.com/berkeley/spring2022/stat157260) -->
 
 ## Lecture
 
-MWF11-12, in 3108 Etcheverry Hall
- * <a href="https://berkeley.zoom.us/j/93592932586?pwd=Y1hBNEp4OGVqWHMvOXZKcmd1L0d6QT09">Zoom link</a> for first 2 weeks of class
+MWF11-12, in Physics Building 251 
 
 This class will be heavily disussion-based and participation will count towards the grade. Monday and Wednesday lectures 
 will be a combination of traditional lecture and group activities, while most Fridays will be student-led small 
@@ -40,12 +39,11 @@ There will be no official lab / discussion block, but some homework will involve
 ## Office Hours
 
 Our office hour schedule this semester will be:
- * Jacob Steinhardt (Lead Instructor): Evans 325, 11am-12pm on Tuesdays
- * Jean-Stanislas Denain (GSI): Evans 428, 2-3pm on Mondays
- * Frances Ding (GSI): Evans 428, 10-11am on Fridays
- * Collin Burns (GSI): Evans 428, 10-11am on Wednesdays
+ * Jacob Steinhardt (Lead Instructor): Location, Time 
+ * Jean-Stanislas Denain (GSI): Location, Time 
+ * Meena Jagadeesan (GSI): Location, Time 
+ * Yongchan Wang (uGSI): Location, Time 
 
-We will be holding some of these office hours on zoom for at least the first two week of classes. We will announce these and any other changes to the office hour schedule on piazza.
 
 ## Grading
 
@@ -73,7 +71,18 @@ To reach course staff, you can email [forecasting-class-staff@lists.berkeley.edu
 {% assign num_teaching_assistants = teaching_assistants | size %}
 {% if num_teaching_assistants != 0 %}
 
+
 {% for staffer in teaching_assistants %}
+{{ staffer }}
+{% endfor %}
+{% endif %}
+
+{% assign u_teaching_assistants = site.staffers | where: 'role', 'uGSI' %}
+{% assign num_u_teaching_assistants = u_teaching_assistants | size %}
+{% if num_u_teaching_assistants != 0 %}
+
+
+{% for staffer in u_teaching_assistants %}
 {{ staffer }}
 {% endfor %}
 {% endif %}
