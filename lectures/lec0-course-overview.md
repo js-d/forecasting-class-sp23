@@ -43,7 +43,7 @@ Within these overarching steps, there are many individual skills that help you m
 For instance, 
 while forecasts rely on intuition, people's intuitions don't usually map well onto probabilities, at least at first. Fortunately, it is possible to train your intuition to output accurate probabilities with just a few hours of “calibration training” (the subject of Friday's lecture).
 
-After this initial calibration training, the primary way in which forecasts are way off is **not** due to a statistics error, but due to missing a key consideration that affects the answer significantly (for instance, the number of reported Covid cases could be affected by a backlog, as [seems to have been the case in SF](https://sf.gov/data/covid-19-cases-and-deaths) in early January). Therefore, a lot of this course will focus on skills for generating considerations and for not anchoring too much on a small set of possible outcomes.
+After this initial calibration training, the primary way in which forecasts are way off is **not** due to a statistics error, but due to missing a key consideration that affects the answer significantly (for instance, the number of reported Covid cases could be affected by a backlog, as [seems to have been the case in SF](https://sf.gov/data/covid-19-cases-and-deaths) in early January 2022). Therefore, a lot of this course will focus on skills for generating considerations and for not anchoring too much on a small set of possible outcomes.
 
 On the considerations front, this involves skills such as estimation, trend extrapolation, building good reference classes, and thinking about incentives. On the outcomes front, this involves combatting cognitive biases such as anchoring, and employing "pre-mortems" and other sanity checks.
 
