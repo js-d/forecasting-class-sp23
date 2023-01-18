@@ -13,3 +13,5 @@ vendor/
 *.out
 *.synctex.gz
 *.aux
+*.DS_Store
+
