@@ -17,14 +17,14 @@ MathJax.Hub.Config({
 
 <i>Danny Hernandez and Frances Ding</i><br>
 <br>
-This post is a brief intro to forecasting and some motivation for why we're teaching this class, and why we think Berkeley students should care about forecasting.
+This post is a brief intro to forecasting. We will explain why we're teaching this class, and why we think Berkeley students should care about forecasting.
 
 ## Everyone makes bets, and the bets matter a lot.
 Some examples of bets that could come up in your own life are:
 * Some of you will take some equity from a company, and therefore bet on the success of the company. The good bets are likely to be worth millions of dollars.
 * How likely is this relationship to last 20 years? Assuming it lasts, how likely am I to be extremely happy with it?
 * Many of you will do research and pursue scientific breakthroughs. Most of the value of research is in a handful of breakthroughs, and you have to choose research directions without knowing whether they will lead to a breakthrough. 
-* How long will it take me to finish this homework? (Am I actually going to be able to make it to that thing I said I'd go to)
+* How long will it take me to finish this homework? (Am I actually going to be able to make it to that thing I said I'd go to?)
 
 ## What do we mean by forecasting
 In this course we'll define forecasting as estimating a probability of observing a well defined outcome by some date.
@@ -34,7 +34,7 @@ Some examples of well defined forecasts, along with how I arrived at the forecas
 * I think there's an 80% chance I'll finish writing this lecture in less than 6 hours of total work. So far I spent approximately 2 hours on it, I currently have a first draft with some feedback. I've given similar talks to about 6 different audiences.
 * The way I initially valued my equity for Twitch, a startup I joined in 2011, was that I put a 10% chance on Twitch being worth a billion dollars within 5 years. Twitch was valued at 10-20x less than that when I joined, and Instagram had recently been acquired for a billion dollars.
  
-From these examples, we see that most  “bets” come down to one's forecasts (often implicit).
+From these examples, we see that most  “bets” come down to one's (often implicit) forecasts.
 
 ## Some bets, and their underlying forecasts, affect the world a lot 
 Here are some examples:
@@ -48,7 +48,7 @@ Hopefully these examples make it clear that forecasting accurately can have a hu
 
 Here is some of the evidence showing that forecasting skill can be improved:
 * With a 1 hr training Phillip Tetlock, a professor at the University of Pennsylvania, improved participants' forecasts by 14% (relative to a control group) in a year-long geopolitical forecasting competition. Some examples of forecasts that were in the competition: What is the probability the U.S. will sign the Paris Accord?; Will the U.S. deploy ground troops in Syria?; etc. This research was mostly done in the last decade, so it's only been leveraged a modest amount.
-* One desirable property of forecasts is calibration. When someone is “calibrated”, that means the events they forecast with 90% probability really occur 9 times out of 10, and the events they forecast with 50% probability really occur half the time, and so on. . Douglas Hubbard found that most people can become calibrated in about 2 hours of training.
+* One desirable property of forecasts is calibration. When someone is “calibrated”, that means the events they forecast with 90% probability really occur 9 times out of 10, and the events they forecast with 50% probability really occur half the time, and so on. Douglas Hubbard found that most people can become calibrated in about 2 hours of training.
 
 
 <p style="text-align:center;">

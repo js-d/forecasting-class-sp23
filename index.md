@@ -52,8 +52,8 @@ Grades will be based on a combination of:
 * Homework (35%)
 * Discussion participation (15%)
 * Forecasting performance (20%)
-* Quizzes (15%)
-* Final project (15%)
+* Quizzes (10%)
+* Final project (20%)
 
 ## Course Staff
 
