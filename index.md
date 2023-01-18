@@ -49,10 +49,11 @@ Our office hour schedule this semester will be:
 ## Grading
 
 Grades will be based on a combination of:
- * Discussion Participation (15%)
- * Forecasting Performance (20%)
- * Homework (35%)
- * Final project (30%)
+* Homework (35%)
+* Discussion participation (15%)
+* Forecasting performance (20%)
+* Quizzes (15%)
+* Final project (15%)
 
 ## Course Staff
 
