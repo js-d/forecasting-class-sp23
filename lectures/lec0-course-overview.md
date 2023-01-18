@@ -33,7 +33,7 @@ Forecasts in this class will usually rely on three steps: forming a worldview, g
 
 <img src="../lec0-diagram-simple.png">
 
-I'll illustrate these with the example of forecasting how many confirmed Covid cases will be reported on Jan. 24th, 2022.
+I'll illustrate these with the example of forecasting how many confirmed Covid cases will be reported on Jan. 24th, 2022. In this example, the forecast was made as of Jan. 17th, 2022.
 
  * **Forming a worldview:** Before you can make reliable forecasts, you need some framework for thinking about the problem. This framework should identify the key moving pieces that could affect the answer and ideally point you towards the most relevant considerations. For instance, if you weren't already familiar with Covid and the trajectory of Covid cases, you would want to do enough reading to understand SEIR models, the idea of herd immunity, the fact that people often adjust their behavior in response to case numbers, and some knowledge of the logistics pipeline behind Covid tests (such as possible delays and capacity constraints).
  * **Generating considerations:** Once you have a worldview, you want to list considerations that are relevant to the answer. For Covid, this might include the current number of confirmed cases, your best guess of how quickly they are increasing/decreasing, and any ways that the actual number of confirmed cases might not track the actual number of cases (e.g. capacity constraints).
