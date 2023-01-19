@@ -130,9 +130,9 @@ And now I learned something about McDonalds, Berkeley, and California!
 ## Summary
 
 1. When in doubt, Google, but estimation is kind of like the weight room for forecasting and reasoning about the world.
-2. It is also very helpful for physicists and surprisingly helpful for things like tech / business interviews, where people use it as a way to test your grasp of the world, so there's some pragmatic reason to get good at them)
+2. It is also very helpful for physicists and surprisingly helpful for things like tech / business interviews, where people use it as a way to test your grasp of the world, so there's some pragmatic reason to get good at them
 3. It turns out that we have a lot of nice intuitions about the world, and estimation allows us to articulate them and get pretty good numbers!
 
 (Thanks to Frances Ding and Jacob Steinhardt for help preparing this post. Much of this material is based on something I run at [SPARC](http://sparc-camp.com), so thanks to the many people over the years who have contributed to that as well)
 
-[^1]: Note you can also do something like estimate the US is 6,000,000 mi^2 by estimating it as a rectangle with our earlier "result", and jump straight to "we can fit 300,000 Berkeleys in the US by geographic area," which you can then downgrade a bit since Berkeley has a higher population density than the average plot of land, to get a more reasonable answer. So the more estimations you do, the better you will be at doing other ones!
+[^1]: Note you can also do something like estimate that the US is 6,000,000 mi^2 by estimating it as a rectangle with our earlier "result", and jump straight to "we can fit 300,000 Berkeleys in the US by geographic area," which you can then downgrade a bit since Berkeley has a higher population density than the average plot of land, to get a more reasonable answer. So the more estimations you do, the better you will be at doing other ones!
