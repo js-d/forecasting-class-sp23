@@ -43,7 +43,7 @@ Our office hour schedule this semester will be:
  * Jacob Steinhardt (Lead Instructor): Location, Time 
  * Jean-Stanislas Denain (GSI): 428 Evans, Fridays 2-3pm (starting 1/27)
  * Meena Jagadeesan (GSI): Location, Time 
- * Yongchan Wang (uGSI): Location, Time 
+ * Yongchan Wang (uGSI): 428 Evans, Wednesdays 2-3pm 
 
 
 ## Grading
