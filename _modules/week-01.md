@@ -8,7 +8,4 @@ Jan 19
 
 Jan 21
 : Discussion 1: Calibration
-    : [Discussion Worksheet](https://docs.google.com/document/d/1Wbs_naqfStKusnj8R-JWy1T29e1UAd71q6nH4JsPY04/edit?usp=sharing)
-    
-Reading 
-: [What does probability mean?](https://www.stat.berkeley.edu/~stark/SticiGui/Text/probabilityPhilosophy.htm) (through end of Exercise 13-5)
+    : [Discussion Worksheet](https://docs.google.com/document/d/1Wbs_naqfStKusnj8R-JWy1T29e1UAd71q6nH4JsPY04/edit?usp=sharing) / [Reading](https://www.stat.berkeley.edu/~stark/SticiGui/Text/probabilityPhilosophy.htm) (through end of Exercise 13-5)
