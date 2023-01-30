@@ -12,4 +12,4 @@ Jan 24
 
 Jan 28
 : Discussion 2: Estimation
-    :  [Discussion Worksheet](https://docs.google.com/document/d/126_yWvcHjDPrygqMn1FIa97zELWSS0GFQGwiWnMgHLY)
+    :  [Discussion Worksheet](https://docs.google.com/document/d/126_yWvcHjDPrygqMn1FIa97zELWSS0GFQGwiWnMgHLY) / [Reading](/assets/reading-week2.pdf)
