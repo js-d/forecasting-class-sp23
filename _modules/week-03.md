@@ -1,13 +1,15 @@
-<!-- --- -->
-<!-- title: Week 3 -->
-<!-- --- -->
+---
+title: Week 3
+---
 
-<!-- Jan 31 -->
-<!-- : Lecture 5: Zeroth and First Order Forecasting -->
-<!--     : [Notes](/lectures/lec5-zeroth-first) / [Slides](https://docs.google.com/presentation/d/12qHBXoa4dJ7NjvYnSigXTdxgD9vYYAtj-t47JINZVts/edit#slide=id.p) / [HW3](/assets/hw3.pdf) (due 02/07) -->
+Jan 31
+: Lecture 5: Zeroth and First Order Forecasting
+	: [Slides](https://docs.google.com/presentation/d/1nJ36aIueZ47Npwx2qfyTYeccWBSaxjfsxxnctdahMOw)
+    <!-- : [Notes](/lectures/lec5-zeroth-first) / [Slides](https://docs.google.com/presentation/d/1nJ36aIueZ47Npwx2qfyTYeccWBSaxjfsxxnctdahMOw/edit#slide=id.g110ff8ce75b_0_65) / [HW3](/assets/hw3.pdf) (due 02/07) -->
 
-<!-- Feb 2 -->
-<!-- : Lecture 6: Base Rates and Reference Classes -->
+Feb 2
+: Lecture 6: Base Rates and Reference Classes
+	: [Slides](https://docs.google.com/presentation/d/18v5mx25O3QJipS1wiraeWC6J_SrcO-32MDEAYffLVJU)
 <!--     : [Notes](/lectures/lec6-base-rates) / [Slides](https://docs.google.com/presentation/d/1M6TIexGeby2TV7_TjszXxiKEtF6coEEiYOVE-cgd6g8/edit?usp=sharing) -->
 
 <!-- Feb 4 -->
