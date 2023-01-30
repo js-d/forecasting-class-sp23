@@ -8,8 +8,7 @@ Jan 31
 
 Feb 2
 : Lecture 6: Base Rates and Reference Classes
-	: [Slides](https://docs.google.com/presentation/d/18v5mx25O3QJipS1wiraeWC6J_SrcO-32MDEAYffLVJU)
-<!--     : [Notes](/lectures/lec6-base-rates) / [Slides](https://docs.google.com/presentation/d/1M6TIexGeby2TV7_TjszXxiKEtF6coEEiYOVE-cgd6g8/edit?usp=sharing) -->
+	: [Notes](https://forecasting.quarto.pub/book/base-rates.html) / [Slides](https://docs.google.com/presentation/d/18v5mx25O3QJipS1wiraeWC6J_SrcO-32MDEAYffLVJU)
 
 <!-- Feb 4 -->
 <!-- : Discussion 3 -->
