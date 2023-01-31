@@ -48,6 +48,9 @@ Our office hour schedule this semester will be:
 
 ## Grading
 
+There will be a quiz at the beginning of class on most Fridays, which covers the reading from that week. It will generally be short (1-2 multiple-choice questions). The two quizzes where you got the lowest grade will be dropped.
+
+
 Grades will be based on a combination of:
 * Homework (35%)
 * Discussion participation (15%)
