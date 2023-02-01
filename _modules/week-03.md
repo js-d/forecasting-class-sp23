@@ -4,7 +4,7 @@ title: Week 3
 
 Jan 31
 : Lecture 5: Zeroth and First Order Forecasting
-	: [Notes](https://forecasting.quarto.pub/book/zeroth-first.html) / [Slides](https://docs.google.com/presentation/d/1nJ36aIueZ47Npwx2qfyTYeccWBSaxjfsxxnctdahMOw)
+	: [Notes](https://forecasting.quarto.pub/book/zeroth-first.html) / [Slides](https://docs.google.com/presentation/d/1nJ36aIueZ47Npwx2qfyTYeccWBSaxjfsxxnctdahMOw) / [HW3](/assets/hw3/hw3.pdf) (due 02/07)
 
 Feb 2
 : Lecture 6: Base Rates and Reference Classes
