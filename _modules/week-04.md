@@ -8,4 +8,9 @@ Feb 7
 
 Feb 9
 : Lecture 8: Combining Forecasts (1)
-	: [Slide](https://docs.google.com/presentation/d/15Gpip5Ea1Gda4_dChg7cv-nkQlUXX5FqkdlRMB322-s/edit#slide=id.p)
+	: [Slides](https://docs.google.com/presentation/d/15Gpip5Ea1Gda4_dChg7cv-nkQlUXX5FqkdlRMB322-s/edit#slide=id.p)
+
+
+Feb 11:
+: Discussion 3: The Inner Game of Forecasting
+	: [Discussion Worksheet](https://docs.google.com/document/d/1Jfd22YOqkpalmp-ktefCI6syCQALvLsUAyE3h022TCc/edit?usp=sharing)
