@@ -4,7 +4,7 @@ title: Week 4
 
 Feb 7
 : Lecture 7: The "Other" Option
-    : [Slides](https://docs.google.com/presentation/d/1-oYaOtcpfxfCFEup3KAnmQfP6PReI-bDVmYGhwQEbpo/edit#slide=id.p) / [HW4](/assets/hw4/hw4.pdf) (due 02/14) / [Data for HW4 Lab](/assets/hw4/scraped_games_2020-21.csv) (also available in the lab Jupyter Notebook) / [Reading](https://forecasting.quarto.pub/book/inner-game.html) (due 2/10)
+    : [Slides](https://docs.google.com/presentation/d/1-oYaOtcpfxfCFEup3KAnmQfP6PReI-bDVmYGhwQEbpo/edit#slide=id.p) / [Notes](https://forecasting.quarto.pub/book/other-option.html) / [HW4](/assets/hw4/hw4.pdf) (due 02/14) / [Data for HW4 Lab](/assets/hw4/scraped_games_2020-21.csv) (also available in the lab Jupyter Notebook) / [Reading](https://forecasting.quarto.pub/book/inner-game.html) (due 2/10)
 
 Feb 9
 : Lecture 8: Combining Forecasts (Part 1)
