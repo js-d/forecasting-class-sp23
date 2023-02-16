@@ -1,0 +1,99 @@
+\documentclass[11pt]{article}
+\usepackage{amsmath,amsfonts,amssymb}
+\usepackage{hyperref}
+\hypersetup{
+	colorlinks=true,
+	linkcolor=blue,
+	urlcolor=cyan
+	}
+\usepackage[margin=1in]{geometry}
+\usepackage{graphicx}
+
+\setlength{\parindent}{0pc}
+\setlength{\parskip}{10pt}
+
+\title{STAT157 HW 5}
+\date{Feb 15, 2023}
+
+\begin{document}
+
+\maketitle
+
+\hfill \textbf{Due Tuesday, February 21 at 11:59pm}
+
+\section*{Deliberate Practice: Combining Forecasts}
+
+\emph{Expected completion time: 90 minutes}
+
+
+For the following questions, look up and provide links to at least 3 data sources that could be good reference classes. 
+
+\begin{enumerate}
+    \item Will this year's NBA MVP be a guard?
+	\item Will Biden file for president before the end of 2023?
+\end{enumerate}
+
+For each reference class, comment on: 
+\begin{itemize}
+	\item How closely related it is to the question of interest
+	\item Whether or not you expect it to systematically over/under-estimate the answer
+	\item How much error the reference class's finite sample size induces
+\end{itemize}
+
+Use these considerations to assign relative weights to each reference class, and compute a weighted average. Some of the 3 data sources can be external predictions (e.g. on odds on a betting site), but at least one of the three should be an actual dataset. The dataset doesn't need to be large, but it should come from a reliable source. 
+
+It is OK if two data sources overlap, but the conditions for the same data source to be two reference classes should be different (e.g: the same Wikipedia table but different conditions for including a row in the reference class). You could also try using ChatGPT to generate reference classes and comment on how useful they are. 
+
+On Gradescope, please also submit the time it took to complete this exercise.
+
+\section*{Lab}
+
+\emph{Expected completion time: 120 minutes}
+
+\href{http://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fjs-d%2Fforecasting-class-sp23&urlpath=tree%2Fforecasting-class-sp23%2Fhw%2Fhw5%2Fhw5lab.ipynb&branch=main}{Link to Jupyter notebook.}
+
+Please follow the instructions in the notebook to print out your code and answers and submit to Gradescope. You may use languages other than Python, although we will generally be providing starter code in Python.
+
+On Gradescope, please also submit the time it took to complete this exercise.
+
+\section*{Predictions}
+
+\emph{Expected completion time: 40 minutes}
+
+Register the following predictions. You can submit them by going to \url{https://forms.gle/ExjYPGKVDeiCB3DJ7} and following the form's instructions. For these predictions, (and all predictions about the future throughout this class), we encourage you to use external sources -- by googling things, reading news articles, talking to friends who follow politics or music stats, etc.
+
+\begin{enumerate}
+	\item[1.] Will Google release its AI chatbot \href{https://blog.google/technology/ai/bard-google-ai-search-updates/}{Bard} before the End of Day March 7?
+	\begin{itemize}
+		\item This question will resolve positively if Google's \href{https://blog.google/technology/ai/}{official AI blog} contains a post dated between Feb 21 and March 7 (included) announcing the public release (free or paid) of Bard. 
+        \item A public release means that all course staff would be able to use Bard if they signed up or paid appropriately, but if there is a waitlist or invitation-only process for using it, it doesn't count as a public release. 
+	\end{itemize} 
+	\item[2.] Who will win the \href{https://www.bbc.com/news/world-africa-64496042}{2023 Nigerian Presidential Election}?
+	\begin{itemize}
+		\item This question will resolve based on government announcement or credible media reports of who is Nigeria's next president. If there is a run-off because a candidate fails to get a majority or quorum of states, the question will resolve based on the final winner of the election. 
+        \item Please submit probabilities for each of the most promising candidate: Atiku Abubakar, Bola Tinubu, Peter Obi, Rabiu Kwankwaso, and for ``someone else''. Your probabilities should add up to 1. If they don't, we will divide each probability by the sum of the probabilities to renormalize them.
+    \end{itemize}
+
+	\item[3.] How many awards will \emph{Everything Everywhere All at Once} win at the 95th Academy Awards?
+	\begin{itemize}
+		\item This movie has received \href{https://www.imdb.com/title/tt6710474/awards/}{11 nominations} for Oscars 2023.  
+	\end{itemize} 
+\end{enumerate}
+
+For each question, submit your probabilities (or a mean and inclusive 80\% confidence interval for question 3) as well as an explanation of your reasoning (1-2 paragraphs). \textbf{Please include a copy of your google form responses with your Gradescope submission}. 
+
+% \section*{Extra-credit: Predictions}
+% \begin{enumerate}
+% 	\item[1.] Give an 80$\%$ Confidence Interval for 2/3 of the Upper Bound of the Confidence Intervals provided for this question, as well as an explanation of your reasoning. Once again, submit your prediction and reasoning on \url{TODOurl}, and include a copy of both on your Gradescope submission.
+% \end{enumerate}
+
+% \section*{Extra-credit: Question generation}
+% For extra credit, you can also generate questions: you will get points if we add your questions to our pool of questions for this year or the following years. Many of our questions so far focused on a few themes like movies, elections or geopolitics, so we're especially interested in questions about other topics! We are interested in 3 kinds of questions:
+% \begin{itemize}
+% 	\item Calibration exercise questions, such as in the calibration app from \emph{HW1 Deliberate Practice} (1 point).
+% 	\item Fermi estimate questions, such as in \emph{HW2 Deliberate Practice: Estimation} (2 points).
+% 	\item Forecasting questions like the weekly prediction questions in past homeworks (3 points).
+% \end{itemize}
+
+
+\end{document}
