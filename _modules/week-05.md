@@ -4,7 +4,7 @@ title: Week 5
 
 Feb 13
 : Lecture 9: Combining Forecasts (Part 2)
-	: [HW5](/assets/hw5/hw5.pdf) / [Reading](https://pubs.aeaweb.org/doi/pdfplus/10.1257/0895330041371321) (pages 1-8, due 2/17) 
+	: [HW5](/assets/hw5/hw5.pdf) (due 2/21) / [Reading](https://pubs.aeaweb.org/doi/pdfplus/10.1257/0895330041371321) (pages 1-8, due 2/17) 
 
 <!-- Feb 16 -->
 <!-- : Lecture 10: Common Probability Distributions -->
