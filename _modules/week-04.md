@@ -8,7 +8,7 @@ Feb 7
 
 Feb 9
 : Lecture 8: Combining Forecasts (Part 1)
-	: [Slides](https://docs.google.com/presentation/d/15Gpip5Ea1Gda4_dChg7cv-nkQlUXX5FqkdlRMB322-s/edit#slide=id.p)
+	: [Slides](https://docs.google.com/presentation/d/15Gpip5Ea1Gda4_dChg7cv-nkQlUXX5FqkdlRMB322-s/edit#slide=id.p) / [Notes](https://forecasting.quarto.pub/book/combining-forecasts-new.html)
 
 
 Feb 11
