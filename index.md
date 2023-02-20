@@ -41,7 +41,7 @@ There will be no official lab / discussion block, but some homework will involve
 
 Our office hour schedule this semester will be:
  * Jacob Steinhardt (Lead Instructor): 325 Evans, Monday 10-11am 
- * Jean-Stanislas Denain (GSI): 428 Evans, Friday 2-3pm (starting 1/27)
+ * Jean-Stanislas Denain (GSI): 428 Evans, Friday 2:30-3:30pm (starting 1/27)
  * Meena Jagadeesan (GSI): 428 Evans, Tuesday 10-11am 
  * Yongchan Wang (uGSI): 428 Evans, Wednesday 2-3pm  
 
