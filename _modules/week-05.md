@@ -10,6 +10,6 @@ Feb 15
 : Lecture 10: Common Probability Distributions
     : [Slides](https://docs.google.com/presentation/d/1qT3mNAyvQ4yKKAceImB5HGfmB9cLWkoEEAyy4038jcE/edit#slide=id.p)
 
-Feb 18
+Feb 17
 : Discussion 5
-    : [Discussion Worksheet](https://docs.google.com/document/d/1cZCIQ2bsaQ8Bwvg6cEfrJUiFZDiVQi4UGK0sA4db0HY/edit?usp=sharing)
+    : [Discussion Worksheet](https://docs.google.com/document/d/1VYm6GBGK_N5kxlD_YwnZ5ax2AgBsNx2et62A4Sx_59Q/edit?usp=sharing)
