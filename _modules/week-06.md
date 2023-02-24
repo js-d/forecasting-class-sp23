@@ -7,7 +7,7 @@ Feb 20
 
 Feb 22
 : Lecture 11: Prioritizing Information
-    : [HW6](/assets/hw6/hw6.pdf) (due 02/28) <!-- [Notes](/lectures/lec11-prioritizing-information) / [Slides](https://docs.google.com/presentation/d/1P_bz1yjjKqzefJE553uynLmqEd747Q4BfN1DHUJ59uY/edit?usp=sharing) -->
+    : [Slides](https://docs.google.com/presentation/d/1P_bz1yjjKqzefJE553uynLmqEd747Q4BfN1DHUJ59uY/edit?usp=sharing) / [HW6](/assets/hw6/hw6.pdf) (due 02/28) <!-- [Notes](/lectures/lec11-prioritizing-information) -->  
 
 <!-- Feb 25 -->
 <!-- : Discussion 6 -->
