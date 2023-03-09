@@ -29,7 +29,7 @@
 
 \section*{Deliberate Practice: Invalidating Considerations}
 
-\emph{Expected completion time: 90 minutes}
+\emph{Expected completion time: 120 minutes}
 
 This exercise follows the activity in last week's discussion.
 We will use the following simplified model for invalidating considerations:
@@ -43,10 +43,31 @@ We will use the following simplified model for invalidating considerations:
 For each of the following examples of $p_0$, $p_1$, and $\epsilon$, do the following:
 \begin{itemize}
 	\item Give an 80\% confidence interval when accounting for the $\epsilon$ probability of a ``crazy'' world. Your interval should be centered, i.e.~your lower and upper bounds should be the 10th and 90th percentiles of the mixture distribution.
-	\item Confirm your reasoning by simulation: using Python, draw 1000 samples from $(1 - \epsilon) p_0 + \epsilon p_1$, and use them to estimate the 10th and 90th percentiles of this distribution.
+	\item Confirm your reasoning by simulation: using Python, draw 1000 samples from $(1 - \epsilon) p_0 + \epsilon p_1$, and use them to estimate the 10th and 90th percentiles of this distribution. Sampling from a mixture happens in two steps:
+		\begin{itemize}
+			\item Sample from a Bernoulli($\epsilon$) to choose between $p_0$ and $p_1$.
+			\item Sample from the chosen distribution (in this exercise the distributions will be uniform).
+		\end{itemize}
 \end{itemize}
 
+\newpage
+
 \begin{enumerate}
+	\item Non-overlapping uniform distributions 
+	\begin{itemize}
+		\item $p_0 = \text{Uniform}(0, 2)$
+		\item $p_1 = \text{Uniform}(2.5, 3)$
+		\item (a) $\epsilon = 0.05$, (b) $\epsilon = 0.1$, (c) $\epsilon = 0.2$
+	\end{itemize}
+
+\begin{center}
+	\begin{figure}[h!]
+	\includegraphics[width=260pt]{non-over.png}
+	\caption{Non-overlapping uniform distributions}
+	\end{figure}
+\end{center}
+
+
 \item Overlapping uniform distributions
 	\begin{itemize}
 		\item $p_0 = \text{Uniform}(0, 2)$
@@ -61,49 +82,34 @@ For each of the following examples of $p_0$, $p_1$, and $\epsilon$, do the follo
 	\end{figure}
 \end{center}
 
+% \item Point masses on both sides 
+% 	\begin{itemize}
+% 		\item $p_0 = \text{Uniform}(1,2)$ 
+% 		\item $p_1 = 0.5 \text{Dirac}(0) + 0.5 \text{Dirac}(3)$
+% 		\item (a) $\epsilon = 0.05$, (b) $\epsilon = 0.1$, (c) $\epsilon = 0.2$
+% 	\end{itemize}
 
-\item Triangular distributions
-	\begin{itemize}
-		\item $p_0$ has pdf $f(x) = 1 - |1 - x|$ if $0 < x < 2$, $f(x) = 0$ otherwise
-		\item $p_1$ has pdf $g(x) = 1 - |3 - x|$ if $2 < x < 4$, $g(x) = 0$ otherwise
-		\item (a) $\epsilon = 0.05$, (b) $\epsilon = 0.1$, (c) $\epsilon = 0.2$
-	\end{itemize}
-
-\begin{center}
-	\begin{figure}[h!]
-	\includegraphics[width=260pt]{2.png}
-	\caption{Triangular distributions}
-	\end{figure}
-\end{center}
-
-\item Point masses on both sides 
-	\begin{itemize}
-		\item $p_0 = \text{Uniform}(1,2)$ 
-		\item $p_1 = 0.5 \text{Dirac}(0) + 0.5 \text{Dirac}(3)$
-		\item (a) $\epsilon = 0.05$, (b) $\epsilon = 0.1$, (c) $\epsilon = 0.2$
-	\end{itemize}
-
-\begin{center}
-	\begin{figure}[h!]
-	\includegraphics[width=240pt]{3.png}
-	\caption{Point masses on both sides}
-	\end{figure}
-\end{center}
+% \begin{center}
+% 	\begin{figure}[h!]
+% 	\includegraphics[width=240pt]{3.png}
+% 	\caption{Point masses on both sides}
+% 	\end{figure}
+% \end{center}
 
 
-\item Tetris blocks
-	\begin{itemize}
-		\item $p_0$ has pdf $f(x) = 0.5$ if $0 \leq x < 1$, $f(x) = 1$ if $1 \leq x < 1.5$, and $f(x) = 0$ otherwise
-	\item $p_1 = \text{Uniform}(2.5, 3)$
-		\item (a) $\epsilon = 0.05$, (b) $\epsilon = 0.1$, (c) $\epsilon = 0.2$
-	\end{itemize}
+% \item Tetris blocks
+% 	\begin{itemize}
+% 		\item $p_0$ has pdf $f(x) = 0.5$ if $0 \leq x < 1$, $f(x) = 1$ if $1 \leq x < 1.5$, and $f(x) = 0$ otherwise
+% 	\item $p_1 = \text{Uniform}(2.5, 3)$
+% 		\item (a) $\epsilon = 0.05$, (b) $\epsilon = 0.1$, (c) $\epsilon = 0.2$
+% 	\end{itemize}
 
-\begin{center}
-	\begin{figure}[h!]
-	\includegraphics[width=260pt]{4.png}
-	\caption{Tetris blocks}
-	\end{figure}
-\end{center}
+% \begin{center}
+% 	\begin{figure}[h!]
+% 	\includegraphics[width=260pt]{4.png}
+% 	\caption{Tetris blocks}
+% 	\end{figure}
+% \end{center}
 
 \end{enumerate}
 
@@ -113,7 +119,7 @@ On Gradescope, please also submit the time it took to complete this exercise.
 
 \section*{Deliberate Practice: Numerical Sensitivity}
 
-\emph{Expected completion time: 90 minutes}
+\emph{Expected completion time: 180 minutes}
 
 Consider the formula for the number of days $T$ until the peak of Omicron that we used in the \emph{Turning Considerations into Probabilities} lecture:
 $$T = \log_2(N / 2 N_0) \cdot t + \Delta_0 + \Delta_1,$$
