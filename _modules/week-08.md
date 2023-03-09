@@ -4,7 +4,7 @@ title: Week 8
 
 Mar 7
 : Lecture 14: Cognitive Biases Pt. 1
-	: [Reading](https://terrytao.wordpress.com/2009/07/03/benfords-law-zipfs-law-and-the-pareto-distribution/) 
+	: [HW8](http://www.forecastingclass.com/assets/hw8/hw8.pdf) (due 3/15) / [Reading](https://terrytao.wordpress.com/2009/07/03/benfords-law-zipfs-law-and-the-pareto-distribution/) 
 
 <!-- Mar 9 -->
 <!-- : Lecture 15: Case Study: AI Forecasting Pt. 2 -->
