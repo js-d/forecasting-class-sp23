@@ -135,10 +135,16 @@ where:
 Using simulations, we will assess the sensitivity of this formula to variations of its five inputs.
 
 \begin{enumerate}
-	\item Suppose the inputs are sampled independently from Normal distributions. For this, sample $\alpha, \beta, \gamma$, and $\delta$ independently from Normal(0, 1), and define the inputs $N$, $N_0$, $t$, and $\Delta$ as follows:
+	\item Suppose the inputs are sampled independently from Normal and LogNormal distributions. For this, sample $\alpha, \beta, \gamma$, and $\delta$ independently from Normal(0, 1), and define the inputs $N$, $N_0$, $t$, and $\Delta$ as follows:
 	\begin{itemize}
-		\item $N = (6.7 \times 10^6) + (4 \times 10^6) \cdot \alpha$ 
-		\item $N_0 = (0.2 \times 10^6) + (0.05 \times 10^6) \cdot \beta$
+		\item $N = \exp(15.57 + 0.30 \cdot \alpha)$ 
+			\begin{itemize}
+				\item This \href{https://www.johndcook.com/blog/2022/02/24/find-log-normal-parameters/}{means} that $N$ follows a LogNormal distribution with mean $6.7 \times 10^6$ and standard deviation $4 \times 10^6$.
+			\end{itemize}
+		\item $N_0 = \exp(12.18 + 0.06 \cdot \beta)$
+			\begin{itemize}
+				\item This \href{https://www.johndcook.com/blog/2022/02/24/find-log-normal-parameters/}{means} that $N_0$ follows a LogNormal distribution with mean $0.2 \times 10^6$ and standard deviation $0.05 \times 10^6$.
+			\end{itemize}
 		\item $t = 2.4 + 0.5 \cdot \gamma$
 		\item $\Delta = \Delta_0 + \Delta_1 = 12 + 3 \cdot \delta$.
 	\end{itemize}
