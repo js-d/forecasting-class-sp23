@@ -6,9 +6,9 @@ Mar 13
 : Lecture 15: Information Hygiene
      : [Slides](https://docs.google.com/presentation/d/1j5rt4IMgSKdcxqnpQxnY-NfhNYwuqpSaE41rK-mlmhc/edit#slide=id.p) / [HW9](/assets/hw9/hw9.pdf) (due 03/21) <!--  [Notes](/lectures/lec16-cogbiases-1) /  --> / [Reading](https://hbr.org/2017/05/how-our-company-learned-to-make-better-predictions-about-everything)
 
-<!-- Mar 15 -->
-<!-- : Lecture 16: Statistical Street Fighting II -->
-<!--     : [Notes](/lectures/lec17-cogbiases-2) / [Slides](https://docs.google.com/presentation/d/1l3O32lyBNvUuJEjEWynbsJgKTmi75xcfQHTAV8qlyuk/edit#slide=id.g11dcc42e044_0_93) -->
+Mar 15
+: Lecture 16: Guest Lecture
+    : [Slides](https://docs.google.com/presentation/d/1OK7HUCEinFs-FTegFQU-suKWemDZVfWbSALcUI7-kx4/edit#slide=id.p)
 
 <!-- Mar 17 -->
 <!-- : Discussion 9 -->
