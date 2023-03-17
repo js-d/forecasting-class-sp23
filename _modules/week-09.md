@@ -10,7 +10,7 @@ Mar 15
 : Lecture 16: Guest Lecture
     : [Slides](https://docs.google.com/presentation/d/1OK7HUCEinFs-FTegFQU-suKWemDZVfWbSALcUI7-kx4/edit#slide=id.p)
 
-<!-- Mar 17 -->
-<!-- : Discussion 9 -->
-<!--     :  [Discussion worksheet](https://docs.google.com/document/d/1ziuiIXWHnxZJawvU5KNaVkfIx5J6Hzaez6uzNx-D0W8/edit?usp=sharing) -->
+Mar 17
+: Discussion 9
+    :  [Discussion worksheet](https://docs.google.com/document/d/1eTTW97X2REkcOwIv_K5-rlfjAaulSvW87NyExM-k-5k/edit?usp=sharing)
     
