@@ -8,7 +8,7 @@ Apr 3
 
 Apr 5
 : Lecture 21: Martingales
-    : [Final Project Proposal instructions](/assets/Proposal[Spring2023].pdf) (due 04/12)
+    : [Final Project Proposal instructions](/assets/Proposal.pdf) (due 04/12)
 
 <!-- Apr 7 -->
 <!-- : Discussion 11 -->
