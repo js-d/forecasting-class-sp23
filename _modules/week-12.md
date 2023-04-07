@@ -8,9 +8,9 @@ Apr 3
     [HW 11](/assets/hw11/hw11.pdf) (due 04/11)  
 
 Apr 5
-: Lecture 21: Martingales
+: Lecture 21: AI Forecasting
     : [Final Project Proposal instructions](/assets/Proposal.pdf) (due 04/12)
 
-<!-- Apr 7 -->
-<!-- : Discussion 11 -->
-<!--     :  [Discussion Worksheet](https://docs.google.com/document/d/1yf-0-J1t_qCyCKZshoxBupWiVyhMmq2NEV0tnCsROQc/edit?usp=sharing) -->
+Apr 7
+: Discussion 11
+    :  [Discussion Worksheet](https://docs.google.com/document/d/1LumWGoLplX9Ns5HGJRGydvwJiX1l2BgCBPt-5DxHkR8/edit?usp=sharing)
