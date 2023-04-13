@@ -8,7 +8,7 @@ Apr 3
     [HW 11](/assets/hw11/hw11.pdf) (due 04/11)  
 
 Apr 5
-: Lecture 21: AI Forecasting
+: Lecture 21: AI Forecasting Pt. 1
     : [Final Project Proposal instructions](/assets/Proposal.pdf) (due 04/12)
 
 Apr 7
