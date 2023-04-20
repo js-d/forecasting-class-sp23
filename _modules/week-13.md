@@ -10,6 +10,6 @@ Apr 13
 : Lecture 23: Forecasting Software Tools
     : [Slides](https://docs.google.com/presentation/d/1kKyNkwHVf2kWaBz7GFVNG-bBuh7aKNjTZe9nfzGPYGw/edit#slide=id.p)
 
-<!-- April 15 -->
-<!-- : Discussion 12 -->
-<!--     : [Discussion Worksheet](https://docs.google.com/document/d/1cRpMTEu40BoBA58W-m7FPufwcbaAOzx3sJuGr9yWQdA/edit?usp=sharing) -->
+April 15
+: Discussion 12
+    : 
