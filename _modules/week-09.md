@@ -4,7 +4,7 @@ title: Week 9
 
 Mar 13
 : Lecture 15: Information Hygiene
-     : [Slides](https://docs.google.com/presentation/d/1j5rt4IMgSKdcxqnpQxnY-NfhNYwuqpSaE41rK-mlmhc/edit#slide=id.p) / [HW9](/assets/hw9/hw9.pdf) (due 03/21) <!--  [Notes](/lectures/lec16-cogbiases-1) /  --> / [Reading](https://hbr.org/2017/05/how-our-company-learned-to-make-better-predictions-about-everything)
+     : [Slides](https://docs.google.com/presentation/d/1j5rt4IMgSKdcxqnpQxnY-NfhNYwuqpSaE41rK-mlmhc/edit#slide=id.p) / [Notes](https://forecasting.quarto.pub/book/information-hygiene.html) / [HW9](/assets/hw9/hw9.pdf) (due 03/21) / [Reading](https://hbr.org/2017/05/how-our-company-learned-to-make-better-predictions-about-everything)
 
 Mar 15
 : Lecture 16: Guest Lecture
